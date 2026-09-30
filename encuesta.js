@@ -1,6 +1,3 @@
-// encuesta.js - Encuesta de satisfacción
-// Eventos desacoplados (addEventListener) + fetch con async/await
-
 const form = document.querySelector("#formEncuesta");
 const comentario = document.querySelector("#comentario");
 const contador = document.querySelector("#contador");
